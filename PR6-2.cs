@@ -20,7 +20,6 @@ namespace c_sharp3
         {
             public void Bad_music()
             {
-                //Не в обиду, я не фанат
                 if (Name == "MORGENSHTERN - ARISTOCRAT")
                 {
                     Console.WriteLine("bad music");
